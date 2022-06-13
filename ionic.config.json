@@ -1,0 +1,7 @@
+{
+  "name": "tp_note_voyage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
